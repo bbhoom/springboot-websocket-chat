@@ -47,6 +47,8 @@ Client sends messages to: /app/chat.sendMessage
 Server broadcasts messages to: /topic/public
 
 ### 📸 Screenshots
+<img width="1203" height="803" alt="image" src="https://github.com/user-attachments/assets/fa1dda65-132e-4be8-9035-38f4aba6a596" />
+<img width="1675" height="913" alt="image" src="https://github.com/user-attachments/assets/7f342060-8fab-4a48-aca0-a59ff341847c" />
 
 
 ## 🛠️ Built With
